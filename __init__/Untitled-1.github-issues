@@ -1,0 +1,12 @@
+[
+  {
+    "kind": 2,
+    "language": "github-issues",
+    "value": "repo:microsoft/vscode is:open"
+  },
+  {
+    "kind": 2,
+    "language": "bash",
+    "value": "sudo apt install python3-pip"
+  }
+]
